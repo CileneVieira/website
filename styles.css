@@ -1,0 +1,215 @@
+body{
+    padding: 100px;
+    font-family: 'Papyrus', Handlee, Montserrat, Arial, sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    width: 10%;
+    margin: 0 auto;
+    color: #5B7DB1;
+    font-family: "Parisienne", Papyrus, sans-serif;
+    font-size: 90px;
+}
+
+h2{
+    color: #398AB9;
+    font-size: 25px;
+}
+
+h3{
+
+    font-size: 20px;
+}
+
+
+.container {
+    margin: 50px;
+    background-color: #EEEEBDD;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+
+.hobbies-container {
+    margin: 50px;
+    background-color: #EEEEBDD;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.intro-paragraph{
+    width: 70%;
+    line-height: 2;
+}
+
+.books-table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.profile{
+    background-color:#EEEEEE;
+    padding-right: 50px;
+    text-align: left;
+
+}
+
+.languages{
+    background-color:#EEEEEE;
+
+}
+
+.contact-me{
+    background-color:#EEEEEE;
+
+}
+.podcast-table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.skills{
+    position: relative;
+    margin: auto;
+ }
+
+
+.languages{
+    position: relative;
+    margin:auto;
+ }
+
+.langauge-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hobbies-container{
+    background-color:#EEEEBDD;
+    text-align: center;
+}
+
+
+.top{
+    background-color:#EEEEEE;
+}
+
+.arts{
+    background-color:#EEEEEE;
+    text-align: center;
+    height: 500px;
+}
+
+.art-paragraph{
+    width: 30%;
+    padding-left: 350px;
+    height: 300px;
+}
+
+.footer{
+    font-size: 12px;
+}
+.me_photo{
+    height: 900px;
+}
+
+.contact-picture{
+    height: 300px;
+    border-radius: 50%;
+}
+
+
+.profilepicture{
+    max-width: 300px;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;;
+    padding-left:100px;
+    padding-right: 30px;
+    margin-right: 100px;
+    float: left;
+}
+
+.skills img{
+    width: 200px;
+    height: 200px,
+    border-radius:50%;
+}
+
+
+.reading_photo{
+    max-height: 800px;
+}
+
+.links img{
+        width: 100px;
+        height: 100px,
+}
+
+
+.hobbies-tab img{
+        width: 100px;
+        height: 100px,
+}
+
+
+.books img{
+    width: 150px;
+    height: 200px;
+    padding: 50px;
+    border-radius: 50%
+}
+
+.podcasts img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.podcasts{
+    padding-left: 50px;
+}
+.languages img{
+    width: 200px;
+    height: 200px,
+    border-radius: 50%;
+}
+
+.my-art {
+    height:700px;
+    float: right;
+    position: relative;
+    margin-top:0;
+}
+
+.btn {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #696d70);
+  background-image: -moz-linear-gradient(top, #ffffff, #696d70);
+  background-image: -ms-linear-gradient(top, #ffffff, #696d70);
+  background-image: -o-linear-gradient(top, #ffffff, #696d70);
+  background-image: linear-gradient(to bottom, #ffffff, #696d70);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Papyrus', Handlee, Montserrat, Arial, sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #bdbdbd;
+  background-image: -webkit-linear-gradient(top, #bdbdbd, #6f6f70);
+  background-image: -moz-linear-gradient(top, #bdbdbd, #6f6f70);
+  background-image: -ms-linear-gradient(top, #bdbdbd, #6f6f70);
+  background-image: -o-linear-gradient(top, #bdbdbd, #6f6f70);
+  background-image: linear-gradient(to bottom, #bdbdbd, #6f6f70);
+  text-decoration: none;
+}
