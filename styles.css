@@ -164,15 +164,15 @@ h3{
 
 
 .books img{
-    width: 70px;
-    height: 100px;
+    width: 100px;
+    height: 150px;
     padding: 50px;
     border-radius: 50%
 }
 
 .podcasts img{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
 }
 
